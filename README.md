@@ -2,6 +2,7 @@
 #check the linux status
 
 #for example,show like follow
+
  OS type is:  GNU/Linux
  release version:
  Architectur:  x86_64
