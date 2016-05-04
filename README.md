@@ -1,7 +1,7 @@
-# linux_monitor_shell
-#check the linux status
+ linux_monitor_shell
+check the linux status
 
-#for example,show like follow
+for example,show like follow
 
  OS type is:  GNU/Linux
  release version:
@@ -19,4 +19,4 @@ root     pts/0        2016-05-04 15:55 (la084008.apac.avaya.com)
  Load average:  0.09, 14
  Disk average:  /dev/sda3 2% /dev/sda1 16%
 
-#balis yin
+balis yin
