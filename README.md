@@ -1,5 +1,5 @@
-balis
-for example,show like follow
+run the shell on linux ,
+show as followed
 
 OS type is:  GNU/Linux  
 release version:  
