@@ -9,9 +9,9 @@ hostname:  ADSavaya1
 
 Internal IP:  addr:192.168.64.238
 
-External IP:  42.99.164.49
+External IP:  42.99.164.**
 
-DNS:  202.96.69.38 135.27.168.74
+DNS:  202.96.**.** 135.27.***.**
 
 Internet connected
 
