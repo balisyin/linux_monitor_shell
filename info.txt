@@ -1,0 +1,1 @@
+CHATRIGHT_COIN_BUZ_UPDATE_ALIPAY http://testservice.inke.cn/api/finance/wallet/update_alipay
