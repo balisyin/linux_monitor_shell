@@ -1,1 +1,4 @@
-CHATRIGHT_COIN_BUZ_UPDATE_ALIPAY http://testservice.inke.cn/api/finance/wallet/update_alipay
+CHATRIGHT_API_CALL_ALLOW_COMMENT https://service.fengyuhn.cn/api/call/allow_comment
+CHATRIGHT_API_CALL_GET_COMMENT https://service.fengyuhn.cn/api/call/get_comment
+CHATRIGHT_COIN_BUZ_GIFT_INFO https://service.fengyuhn.cn/api/finance/gift/info
+CHATRIGHT_COIN_BUZ_GIFT_SEND https://service.fengyuhn.cn/api/finance/gift/send
