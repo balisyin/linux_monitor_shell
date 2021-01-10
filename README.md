@@ -26,3 +26,5 @@ App usage:  6034.71
 Load average:  0.09, 14
 
 Disk average:  /dev/sda3 2% /dev/sda1 16%
+
+balis
